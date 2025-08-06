@@ -4,3 +4,4 @@ COMPLETED RESULT:
 https://idh-portfolio.s3.us-east-1.amazonaws.com/EPortfolio/portfolio.html
 
 Used an S3 bucket on AWS to host.
+Estimated time to learn the content and complete project ~ 1 year
